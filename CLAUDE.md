@@ -356,6 +356,8 @@ type ScenarioStepType =
 ## Active Technologies
 - TypeScript 5.x, React 19.2.1, Next.js 16.0.10 (App Router) (001-project-execution-plan)
 - localStorage (클라이언트 전용, 백엔드 없음) (001-project-execution-plan)
+- TypeScript 5.x (tsconfig.json 기준) (004-phase-p2)
+- N/A (클라이언트 전용, 더미 데이터 사용) (004-phase-p2)
 
 ## Recent Changes
 - 001-project-execution-plan: Added TypeScript 5.x, React 19.2.1, Next.js 16.0.10 (App Router)
